@@ -14,11 +14,11 @@ Essa descrição mantém a mesma abordagem clara e focada nos benefícios para a
 ## Notebooks
 O projeto está dividido em dois Notebooks: 
 
-1. **PCA**: [PCA - Redução Dimensionalidade][https://github.com/lazarocordeirosilva/Segmentacao_Clientes/blob/main/notebook/PCA%20-%20Redu%C3%A7%C3%A3o%20Dimensionalidade.ipynb
+1. **PCA**: [PCA - Redução Dimensionalidade](https://github.com/lazarocordeirosilva/Segmentacao_Clientes/blob/main/notebook/PCA%20-%20Redu%C3%A7%C3%A3o%20Dimensionalidade.ipynb)
 
 - Neste notebook são aplicadas técnicas de redução de dimensionalidade (PCA) a fim de construir 5 componentes principais a partir de 30 features originais, referentes as respostas de um questionário acerca de um produto (microvan).
 
-2. **Segmentação de Clientes**: [Segmentação de Clientes]https://github.com/lazarocordeirosilva/Segmentacao_Clientes/blob/main/notebook/Segmenta%C3%A7%C3%A3o%20de%20Clientes.ipynb 
+2. **Segmentação de Clientes**: [Segmentação de Clientes](https://github.com/lazarocordeirosilva/Segmentacao_Clientes/blob/main/notebook/Segmenta%C3%A7%C3%A3o%20de%20Clientes.ipynb) 
 
 - Neste notebook foi aplicado o algoritmo KMeans à base de dados, com suas dimensões reduzidas, a fim de identificar similiaridades entre os respondentes do questionário, agrupando-os em clusters.  
 
